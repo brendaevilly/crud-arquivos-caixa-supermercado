@@ -1,0 +1,2 @@
+tangerina comida 195 10.00
+feijao cereais 400 3.00
